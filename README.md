@@ -1,2 +1,2 @@
 # DEM
-Dynamic Economic Modelling assignments 
+Dynamic Economic Modelling Problem Sets (PS) 
