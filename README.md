@@ -1,6 +1,8 @@
 # DEM
 Dynamic Economic Modelling Problem Sets (PS) 
 ----------------------------------------------
+In the PS1 folder one can find: 
+
 - DEM_PS1: questions file
 
 - PS1: answers file
